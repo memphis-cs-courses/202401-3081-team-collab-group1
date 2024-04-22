@@ -4,4 +4,8 @@ class PagesController < ApplicationController
   end
   def ruleisaac
   end
-end
+
+   def eritrea21
+
+   end
+  end
