@@ -2,11 +2,11 @@ class PagesController < ApplicationController
   def index
 
   end
-  def aldafari
 
+  def ruleisaac
   end
-
-   def eritrea21
-
-   end
+  def aldafari
+  end
+  def eritrea21
+end
   end
