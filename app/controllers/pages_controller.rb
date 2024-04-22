@@ -5,4 +5,8 @@ class PagesController < ApplicationController
   def aldafari
 
   end
-end
+
+   def eritrea21
+
+   end
+  end
